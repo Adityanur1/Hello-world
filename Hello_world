@@ -6,3 +6,4 @@ int main(void)
 
     printf("hello, %s\n", name);
 }
+//aditya nur sudah di cek pmoko
